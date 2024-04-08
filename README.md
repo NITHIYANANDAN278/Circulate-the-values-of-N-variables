@@ -18,6 +18,8 @@ Using the slicing concept rotate the list
 print the result 
 ## Program:
 ```
+Developed by: NITHIYANANDAN N
+Register number:212222230099
 def circulate():
     l=eval(input())
     n=int(input())
@@ -26,8 +28,7 @@ def circulate():
 ```
 
 ## Output:
-![Screenshot 2024-03-22 094819](https://github.com/NITHIYANANDAN278/Circulate-the-values-of-N-variables/assets/121784636/01b632f8-f8a9-405c-bca9-331cda8c17cb)
-![Screenshot 2024-03-22 094843](https://github.com/NITHIYANANDAN278/Circulate-the-values-of-N-variables/assets/121784636/8bc5398d-9032-4713-96fc-0fcdff30061c)
+![image](https://github.com/NITHIYANANDAN278/Circulate-the-values-of-N-variables/assets/121784636/87a1147a-6b81-408a-878c-2c1e90b118e5)
 
 
 
